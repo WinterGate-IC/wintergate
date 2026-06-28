@@ -97,7 +97,7 @@ WinterGate IC never tracks, logs, or monitors ordinary users. Data collection is
 |---|---|---|---|
 | Attacker IPs | Honeypot, SSH logs, web logs | 30 days (active), 365 days (blacklist) | Threat detection, blocking |
 | HTTP attack paths | Honeypot | 30 days | Attack classification |
-| Discord IDs | Community reports, public sources | Until removal requested | Threat intelligence |
+| IDs | Community reports, public sources | Until removal requested | Threat intelligence |
 | Attack metadata | Automated detection | 7 days (routine), 90 days (critical) | Pattern analysis |
 
 **Not collected:**
